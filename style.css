@@ -83,7 +83,7 @@ input{
  				color: red;
  				font-size: 12px;
  				float: right;
- 				margin-right: 25px;
+ 				margin-right: 35px;
  }
 #form.valid input:before{
  				content: "";
@@ -96,7 +96,7 @@ input{
 }
 img{
 				position: absolute;
-				right: 30px;
+				right: 40px;
 			 margin-top: 31px;
 			 display: none;
 }
